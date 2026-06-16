@@ -24,6 +24,15 @@ Stores candidate information.
 ### screening_results
 Stores screening scores, status, remarks, and interview dates.
 
+
+## Screenshots
+
+### Python Output
+![Python Output](Screenshot 2026-06-16 184240.png)
+
+### Database Results
+![Database Results](Screenshot 2026-06-16 184335.png)
+
 ## Sample Output
 Selected candidates:
 - Rahul Sharma
@@ -38,3 +47,6 @@ Rejected candidates:
 - Machine Learning scoring
 - Web interface using Flask
 - Email notifications
+
+## Author
+Dornadula Venkata Sudha Lakshmi Nikitha
